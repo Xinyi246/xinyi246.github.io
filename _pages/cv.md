@@ -16,29 +16,27 @@ Education
 * M.A. in Quantitative Methods in the Social Sciences, Columbia University, 2019
 * B.A. in Economics, Education, Emory University, 2017
 
-Work experience
+Work Experience
 ===============
 
-### AI Researcher
-
-* Afiiliation: Republic of Korea Army
-* Dates: January 2020 - July 2021
+* AI Researcher
+  * Affiliation: Republic of Korea Army
+  * Dates: January 2020 - July 2021
 
 Research Projects
 =================
 
-### Using Intelligent Conversational Agents to Empower Adolescents to be Resilient Against Cybergrooming
+* **Using Intelligent Conversational Agents to Empower Adolescents to be Resilient Against Cybergrooming**
 
-* Funding: National Science Foundation (NSF)
-* Dates: Fall 2024 - Present
-* Principal Investigators: Jin-Hee Cho, Pamela J. Wisniewski, Lifu Huang, Sang Won Lee
-* Website: [Link](https://wordpress.cs.vt.edu/rylai/)
+  * Funding: National Science Foundation (NSF)
+  * Dates: Fall 2024 - Present
+  * Principal Investigators: Jin-Hee Cho, Pamela J. Wisniewski, Lifu Huang, Sang Won Lee
+  * Website: [Link](https://wordpress.cs.vt.edu/rylai/)
+* **AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults**
 
-### AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults
-
-* Funding: Commonwealth Cyber Initiative (CCI) and OpenAI
-* Dates: Fall 2025 - Present
-* Principal Investigators: Jin-Hee Cho, Junghwan Kim
+  * Funding: Commonwealth Cyber Initiative (CCI) and OpenAI
+  * Dates: Fall 2025 - Present
+  * Principal Investigators: Jin-Hee Cho, Junghwan Kim
 
 Teaching
 ========
