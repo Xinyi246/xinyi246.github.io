@@ -6,46 +6,41 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 {% include base_path %}
 
-Education
-=========
+# Education
 
-* Ph.D in Computer Science, Virginia Tech, 2028 (expected)
-* M.S. in Computer Science, Georgia Tech, 2023
-* M.A. in Quantitative Methods in the Social Sciences, Columbia University, 2019
-* B.A. in Economics, Education, Emory University, 2017
+- Ph.D in Computer Science, Virginia Tech, 2028 (expected)
+- M.S. in Computer Science, Georgia Tech, 2023
+- M.A. in Quantitative Methods in the Social Sciences, Columbia University, 2019
+- B.A. in Economics, Education, Emory University, 2017
 
-Work Experience
-===============
+# Work Experience
 
-* **AI Researcher**
-  * Affiliation: Republic of Korea Army
-  * Dates: January 2020 - July 2021
+- **AI Researcher**
+  - Affiliation: Republic of Korea Army
+  - Dates: January 2020 - July 2021
 
-Research Projects
-=================
+# Research Projects
 
-* **Using Intelligent Conversational Agents to Empower Adolescents to be Resilient Against Cybergrooming**
+- **Using Intelligent Conversational Agents to Empower Adolescents to be Resilient Against Cybergrooming**
+  - Funding: National Science Foundation (NSF)
+  - Dates: Fall 2024 - Present
+  - Principal Investigators: Jin-Hee Cho, Pamela J. Wisniewski, Sang Won Lee, Lifu Huang
+  - Website: [Link](https://wordpress.cs.vt.edu/rylai/)
 
-  * Funding: National Science Foundation (NSF)
-  * Dates: Fall 2024 - Present
-  * Principal Investigators: Jin-Hee Cho, Pamela J. Wisniewski, Lifu Huang, Sang Won Lee
-  * Website: [Link](https://wordpress.cs.vt.edu/rylai/)
-* **AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults**
+- **AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults**
+  - Funding: Commonwealth Cyber Initiative (CCI) and OpenAI
+  - Dates: Fall 2025 - Present
+  - Principal Investigators: Jin-Hee Cho, Junghwan Kim
 
-  * Funding: Commonwealth Cyber Initiative (CCI) and OpenAI
-  * Dates: Fall 2025 - Present
-  * Principal Investigators: Jin-Hee Cho, Junghwan Kim
+# Teaching
 
-Teaching
-========
+- Fall 2024: CS 3654 - Introductory Data Analytics and Visualization (Graduate Teaching Assistant)
+- Spring 2025: CS 5804 - Introduction to Artificial Intelligence (Graduate Teaching Assistant)
 
-* Fall 2024: CS 3654 - Introductory Data Analytics and Visualization (Graduate Teaching Assistant)
-* Spring 2025: CS 5804 - Introduction to Artificial Intelligence (Graduate Teaching Assistant)
-
-Publications
-============
+# Publications
 
 <ul>
 {% assign pubs = site.publications | sort: "date" | reverse %}
@@ -54,8 +49,7 @@ Publications
 {% endfor %}
 </ul>
 
-Talks
-=====
+# Talks
 
 <ul>
 {% assign talks = site.talks | sort: "date" | reverse %}
